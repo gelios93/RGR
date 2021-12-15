@@ -1,0 +1,6 @@
+# Save as soilms.yaml
+name: "SoilMSApp"
+entrypoint: soilms.toit
+triggers:
+  on_boot: true
+  on_install: true
